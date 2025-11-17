@@ -1,0 +1,16 @@
+# Ignore environment variables
+.env
+
+# Ignore Obsidian credentials
+obsidian.credentials.md
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Docker build context files
+.dockerignore
+Dockerfile
+
+# Ignore downloaded torrents
+downloads/
