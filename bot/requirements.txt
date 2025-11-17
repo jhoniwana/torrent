@@ -1,2 +1,5 @@
 python-telegram-bot[job-queue]
 libtorrent
+requests
+beautifulsoup4
+lxml
